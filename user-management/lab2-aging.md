@@ -17,4 +17,4 @@ chage -l natasha
 ```
 
 #### Verification Proof
-![Chage verification output success](./lab-proofs/b2-proof.png)
+![Chage verification output success](./lab-proofs/lab2-proof.png)
