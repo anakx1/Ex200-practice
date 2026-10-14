@@ -7,3 +7,4 @@ Personal lab notes and configurations for the Red Hat Certified System Administr
 ### 👤 1. User and Group Management
 * [Lab 1: Account & Group Provisioning](./user-management/lab1-user-management.md)
 
+* [Lab 2: Password Aging Policies](./user-management/lab2-aging.md)
