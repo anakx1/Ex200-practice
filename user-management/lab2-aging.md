@@ -15,3 +15,7 @@ chage -M 90 -m 2 -W 7 natasha
 ```bash
 chage -l natasha
 ```
+
+
+#### Verification Proof
+![Chage verification output success](./user-management/lab-proofs/lab2-proof.png)
